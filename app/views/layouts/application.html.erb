@@ -38,19 +38,19 @@
       
       <div class="navbar_right">
 
-      <ul class=nav nav-pills nav-fill>
+      <ul class=nav nav-pills>
       <li class="nav-item">
       <%= current_user.first_name %>
       </li>
         
         
         <li class="nav-item">
-        <button type="button" class="btn btn-info btn-sm"> <%= link_to "Edit email / password", edit_user_registration_path %></button>
+        <button type="button" class="btn btn-dark btn-sm"> <%= link_to "Edit email / password", edit_user_registration_path %></button>
          
         </li>
 
         <li class="nav-item">
-        <button type="button" class="btn btn-info btn-sm"><%= link_to "Deconnexion", destroy_user_session_path, method: :delete %></button>
+        <button type="button" class="btn btn-dark btn-sm"><%= link_to "Deconnexion", destroy_user_session_path, method: :delete %></button>
         </li>
     
       <% else %>
@@ -69,6 +69,8 @@
      
 
     </nav>
+
+    
   </div>
   </header>
   </head>
