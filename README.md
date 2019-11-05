@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+THP - Week 6 - Project 2 - Eventbrite : Devise et premières views
 
-Things you may want to cover:
+OCEANE SIX / ADRIEN DEBARLE
 
-* Ruby version
+Notes & Use :
 
-* System dependencies
+hosted on heroku at : https://git.heroku.com/eventbrite-assos.git
+Projet : Eventbrite : Devise et premières views
 
-* Configuration
+Introduction Dans ce projet, tu vas reprendre le projet de la veille pour y construire tes premières vues. Tu vas installer Devise sur ton application et construire les premières vues.
 
-* Database creation
 
-* Database initialization
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
