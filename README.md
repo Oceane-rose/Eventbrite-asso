@@ -6,7 +6,7 @@ OCEANE SIX / ADRIEN DEBARLE
 
 Notes & Use :
 
-hosted on heroku at : https://git.heroku.com/eventbrite-assos.git
+hosted on heroku at :  https://eventbrite-assos.herokuapp.com/
 Projet : Eventbrite : Devise et premières views
 
 Introduction Dans ce projet, tu vas reprendre le projet de la veille pour y construire tes premières vues. Tu vas installer Devise sur ton application et construire les premières vues.
